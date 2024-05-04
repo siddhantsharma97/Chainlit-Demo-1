@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+zomato_chatbot.egg-info/PKG-INFO
+zomato_chatbot.egg-info/SOURCES.txt
+zomato_chatbot.egg-info/dependency_links.txt
+zomato_chatbot.egg-info/top_level.txt

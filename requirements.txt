@@ -1,0 +1,8 @@
+chainlit
+notebook
+ipywidgets
+tqdm
+openai
+python-dotenv
+
+-e .
